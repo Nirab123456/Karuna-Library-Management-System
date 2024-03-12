@@ -1,0 +1,16 @@
+C:\Users\rifat\source\repos\karuna_book_lister\bin\Debug\net8.0-windows\karuna_book_lister.exe
+C:\Users\rifat\source\repos\karuna_book_lister\bin\Debug\net8.0-windows\karuna_book_lister.deps.json
+C:\Users\rifat\source\repos\karuna_book_lister\bin\Debug\net8.0-windows\karuna_book_lister.runtimeconfig.json
+C:\Users\rifat\source\repos\karuna_book_lister\bin\Debug\net8.0-windows\karuna_book_lister.dll
+C:\Users\rifat\source\repos\karuna_book_lister\bin\Debug\net8.0-windows\karuna_book_lister.pdb
+C:\Users\rifat\source\repos\karuna_book_lister\obj\Debug\net8.0-windows\karuna_book_lister.Form1.resources
+C:\Users\rifat\source\repos\karuna_book_lister\obj\Debug\net8.0-windows\karuna_book_lister.csproj.GenerateResource.cache
+C:\Users\rifat\source\repos\karuna_book_lister\obj\Debug\net8.0-windows\karuna_book_lister.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rifat\source\repos\karuna_book_lister\obj\Debug\net8.0-windows\karuna_book_lister.AssemblyInfoInputs.cache
+C:\Users\rifat\source\repos\karuna_book_lister\obj\Debug\net8.0-windows\karuna_book_lister.AssemblyInfo.cs
+C:\Users\rifat\source\repos\karuna_book_lister\obj\Debug\net8.0-windows\karuna_book_lister.csproj.CoreCompileInputs.cache
+C:\Users\rifat\source\repos\karuna_book_lister\obj\Debug\net8.0-windows\karuna_book_lister.dll
+C:\Users\rifat\source\repos\karuna_book_lister\obj\Debug\net8.0-windows\refint\karuna_book_lister.dll
+C:\Users\rifat\source\repos\karuna_book_lister\obj\Debug\net8.0-windows\karuna_book_lister.pdb
+C:\Users\rifat\source\repos\karuna_book_lister\obj\Debug\net8.0-windows\karuna_book_lister.genruntimeconfig.cache
+C:\Users\rifat\source\repos\karuna_book_lister\obj\Debug\net8.0-windows\ref\karuna_book_lister.dll
