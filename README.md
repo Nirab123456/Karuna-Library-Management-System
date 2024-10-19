@@ -10,3 +10,8 @@ Loan Management: Manage the borrowing and returning of books with due dates and 
 Search Functionality: Users and administrators can search the catalog by author, title, genre, or ISBN, providing ease of access to the system’s resources.
 Reports Generation: Generate detailed reports about current inventory, most borrowed books, overdue books, and user activity.
 This system is ideal for libraries looking to digitize their operations, reduce paperwork, and improve the overall experience for both staff and patrons. Additionally, it can be tailored for use in various institutions, such as schools, universities, and community libraries.
+
+Developer Details :
+
+    Karuna Kandel
+    mail : karunakandel78@gmail.com
